@@ -1,15 +1,15 @@
 {
     "token": "",
-    "prefix": "",
-    "emojiGuildId": "",
+    "prefix": ".",
+    "emojiGuildId": "706173531070922822",
     "verify": {
-        "guildId": "",
-        "channelId": "",
-        "roleId": ""
+        "guildId": "1004084938599055412",
+        "channelId": "1004084938599055415",
+        "roleId": "1004085015346430044"
     },
     "log": {  
-        "guildId": "",
-        "channelId": ""
+        "guildId": "706173531070922822",
+        "channelId": "999027968326242435"
     },
     "autoBoost": false,
     "autoMessage": {
